@@ -1,0 +1,6 @@
+los paquetes nuget que debemos tener son: Microsoft.EntityFrameworkCore, Microsoft.EntityFrameworkCore.SqlServer y Microsoft.EntityFrameworkCore.Tools.
+como?
+Abre Visual Studio y utiliza el Administrador de Paquetes de NuGet:
+Abre el proyecto en Visual Studio.
+Ve a Herramientas > Administrador de paquetes de NuGet > Administrar paquetes de NuGet para la solución.
+Busca y agrega manualmente los paquetes Microsoft.EntityFrameworkCore, Microsoft.EntityFrameworkCore.SqlServer y Microsoft.EntityFrameworkCore.Tools.
